@@ -1,4 +1,4 @@
-;;; org-gtasks.el -- Export/import all Google Tasks to org files.
+;;; org-gtasks.el --- Export/import all Google Tasks to org files.
 
 ;; Copyright (C) 2018-2019 Julien Masson
 ;;
@@ -7,6 +7,7 @@
 ;; Package-Requires: ((emacs "25.1"))
 ;; Keywords: org tasks google
 ;; Homepage: https://github.com/JulienMasson/org-gtasks
+;; Version: 1.0
 
 ;; This file is not part of GNU Emacs.
 
@@ -503,4 +504,4 @@
 
 
 (provide 'org-gtasks)
-;;; org-gtasks ends here
+;;; org-gtasks.el ends here
